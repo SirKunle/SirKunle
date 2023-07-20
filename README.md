@@ -1,6 +1,6 @@
  I’m SirK
  Creates Websites  
- HTML CSS and Javascript 
+ HTML CSS Javascript React
  looking to collaborate with bright minds
  Reach me at ibrahima30bg@gmail.com 
 
