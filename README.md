@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SirKunle
-- 👀 I’m interested in creating website.
-- 🌱 I’m currently learning HTML CSS and Javascript 
-- 💞️ I’m looking to collaborate on people of like minds
-- 📫 How to reach me ibrahima30bg@gmail.com 
+ I’m SirK
+ Creates Websites  
+ HTML CSS and Javascript 
+ looking to collaborate with bright minds
+ Reach me at ibrahima30bg@gmail.com 
 
 <!---
 SirKunle/SirKunle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
